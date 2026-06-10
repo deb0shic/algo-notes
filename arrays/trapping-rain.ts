@@ -30,3 +30,4 @@ export function trap(height: number[]): number {
 // side. If height[l] < height[r], then the right side is at least as tall as
 // height[l], so lMax is the binding wall for column l. Symmetric on the
 // other side.
+
