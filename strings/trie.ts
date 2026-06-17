@@ -42,3 +42,4 @@ export class Trie {
     return node;
   }
 }
+
