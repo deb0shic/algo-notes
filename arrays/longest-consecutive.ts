@@ -22,3 +22,4 @@ export function longestConsecutive(nums: number[]): number {
 
 // Time  O(n)
 // Space O(n)
+
