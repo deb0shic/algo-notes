@@ -24,3 +24,4 @@ export function numIslands(grid: string[][]): number {
 
 // For very deep grids (m * n around 1e6) the recursion can blow the stack.
 // Convert to an explicit stack in that case.
+
