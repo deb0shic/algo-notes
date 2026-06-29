@@ -14,3 +14,4 @@ export function coinChange(coins: number[], amount: number): number {
   }
   return dp[amount] === Infinity ? -1 : dp[amount]!;
 }
+
