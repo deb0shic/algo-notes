@@ -18,3 +18,4 @@ export function canPartition(nums: number[]): boolean {
   }
   return dp[target] === 1;
 }
+
