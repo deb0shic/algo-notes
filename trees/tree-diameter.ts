@@ -22,3 +22,4 @@ export function diameterOfBinaryTree(root: TreeNode | null): number {
 
 // "Diameter" here counts edges, not nodes; that is why we return
 // 1 + max(l, r) and record l + r without adding 1.
+
