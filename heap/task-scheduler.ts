@@ -19,3 +19,4 @@ export function leastInterval(tasks: string[], n: number): number {
 // Why it works: pin the most frequent task into the first slot of every
 // "chunk" of length n + 1. There are (f - 1) full chunks plus a tail that
 // holds the tasks tying with f. Any remaining tasks slot into idles.
+
